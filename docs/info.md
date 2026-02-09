@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Just generates video with no additional inputs
 
 ## How to test
 
-Explain how to use your project
+Connect to monitor and watch ;)
 
 ## External hardware
 
